@@ -1,0 +1,16 @@
+pip install cvzone
+pip install ultralytics
+pip install hydra-core
+pip install matplotlib
+pip install numpy
+pip install opencv-python
+pip install Pillow
+pip install PyYAML
+pip install requests
+pip install scipy
+pip install torch
+pip install torchvision
+pip install tqdm
+pip install filterpy
+pip install scikit-image
+pip install lap
